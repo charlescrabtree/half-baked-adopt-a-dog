@@ -24,3 +24,4 @@ export async function getDog(id) {
     return response.data;
 }
 
+// check out if Julie does checkError function in class today
